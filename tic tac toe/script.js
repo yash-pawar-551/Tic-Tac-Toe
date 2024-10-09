@@ -1,4 +1,3 @@
-console.log("Javasript Enabled")
 let gameOver = new Audio("gameover.mp3")
 let turnAudio = new Audio("ting.mp3")
 let music = new Audio("music.mp3")
